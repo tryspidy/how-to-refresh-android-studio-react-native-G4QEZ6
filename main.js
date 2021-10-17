@@ -1,0 +1,1 @@
+In order to reload the Android simulator just press R twice ad you can see the app reload instantly. If you want to see developer options of react native in Android emulator then you just need to press ctrl + M
